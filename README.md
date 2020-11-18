@@ -7,5 +7,6 @@ Thomas Erich Pimentel
 Rafael K.
 Renata Trasmonte
 Ricardo Neves
+Carlos Queiroz
 
 
